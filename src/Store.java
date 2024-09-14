@@ -1,8 +1,8 @@
 public class Store {
     public static void main(String[] args) {
-        int p1 = 15;
-        int p2 = 10;
-        int p3 = 5;
+        final int precio1 = 15;
+        final int precio2 = 10;
+        final int precio3 = 5;
 
         int total1 = p1 * 2;
         int total2 = p2 * 3;
